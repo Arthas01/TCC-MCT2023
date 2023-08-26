@@ -12,3 +12,4 @@ PROJETO DO 3º ANO DE MECATRÔNICA
 
 # Circuito:
 ![CircuitoRFID](https://github.com/Arthas01/TCC-MCT2023/assets/107776439/88f92b38-88cf-4cab-beab-8929a150ee22 =250x212)
+<img src="https://github.com/Arthas01/TCC-MCT2023/assets/107776439/88f92b38-88cf-4cab-beab-8929a150ee22"  width="200" height="400" />
