@@ -5,3 +5,7 @@ PROJETO DO 3º ANO DE MECATRÔNICA
 # Componentes:
 - Módulo RFID RC522
 - ESP-32 C3 (M5-STACK)
+
+# Softwares:
+- Arduino IDE
+- Visual Studio
